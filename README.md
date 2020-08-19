@@ -12,4 +12,7 @@ Installs Docker community edition, containerd and all needful. Also allows run d
 Installs KVM QEMU needed for Minikube, there are other virtualization options you can utilize. I recommend KVM because is fully open source! It also install everything to make you capable to create virtual machine if you want to play around. Just run "virt-manager" and you will have a gtk graphical interface easy to go to create your VM's.  
 ### minikube.sh  
 Installs Minikube and run it for the first time with docker driver.  
+### nfs-server.sh
+  
+### gcloud.sh
   
