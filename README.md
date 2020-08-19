@@ -1,7 +1,7 @@
 # **useful-scripts**  
 
 ## **setup**  
-Contains useful scripts for setup written for Ubuntu 20.04 (focal), should work in 18.04 (beaver). Use at your own risk! If it does not run, do "chmod +x script.sh" in your shell.  
+Contains useful and very simple scripts "Keep It Simple!" for setup written for Ubuntu 20.04 (focal), should work in 18.04 (beaver). Use at your own risk! If it does not run, do "chmod +x script.sh" in your shell.  
   
 ### code.sh  
 Installs Visual Studio Code. Our preferred IDE.  
