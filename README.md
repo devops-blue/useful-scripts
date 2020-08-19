@@ -3,7 +3,7 @@
     If it does not run, do "chmod +x script.sh" in your shell.  
   
 code.sh  
-    Installs Visual Studio Code. My preferred IDE.  
+    Installs Visual Studio Code. Our preferred IDE.  
   
 docker.sh  
     Installs Docker community edition, containerd and all needful. Also allows run docker with other users besides root and expose docker API via TCP for localhost on port 2375.  
